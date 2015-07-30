@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 21, 2015, 9:00:12 PM
+    Author     : Bishal
+*/
+
+body{
+    background-color: gainsboro;
+}
+
+.container{
+    background-color: white;
+}
+
+.panel{
+    padding: 2px;
+}
